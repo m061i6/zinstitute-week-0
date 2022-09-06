@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "name": "Faydon",
+      "price": 20,
+      "imgUrl": "/imgs/Faydon.png"
+    },
+    {
+      "id": 2,
+      "name": "Sainta",
+      "price": 20,
+      "imgUrl": "/imgs/Sainta.png"
+    },
+    {
+      "id": 3,
+      "name": "#3294",
+      "price": 1,
+      "imgUrl": "/imgs/3294.png"
+    },
+    {
+      "id": 4,
+      "name": "#3375",
+      "price": 2,
+      "imgUrl": "/imgs/3375.png"
+    }
+  ]
