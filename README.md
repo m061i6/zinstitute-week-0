@@ -2,6 +2,4 @@
 ## Week 0
 ### Practice Shopping Cart Example
 ---
-- 範例影片
-
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/lATafp15HWA/0.jpg)](https://www.youtube.com/watch?v=lATafp15HWA )
+- [範例影片](https://www.youtube.com/watch?v=lATafp15HWA )
