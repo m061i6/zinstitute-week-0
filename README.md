@@ -3,3 +3,4 @@
 ### Practice Shopping Cart Example
 ---
 - [範例影片](https://www.youtube.com/watch?v=lATafp15HWA )
+- [範例GitHub](https://github.com/WebDevSimplified/react-ts-shopping-cart)
